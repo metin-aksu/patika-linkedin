@@ -1,0 +1,144 @@
+body {
+    background-color: #f3f2ef;
+    padding-top: 75px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .menutext {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    font-weight: lighter;
+  }
+
+  .navbar {
+    height: 60px;
+  }
+
+  .nav-item {
+    width: 90px;
+    height: 60px;
+  }
+
+  .fa-solid {
+    color: rgb(99, 99, 99);
+  }
+
+  .fa-solid:hover {
+    color: #000;
+  }
+
+  .siyah {
+    color: #000;
+  }
+
+  .active {
+    border-bottom: 1px solid black;
+  }
+
+  ::placeholder {
+    font-size: 14px;
+    color: gray;
+    padding-left: 25px;
+    background-size: 8%;
+    background-image: url('assets/search-solid.svg');
+    background-repeat: no-repeat;
+  }
+
+  .kisi-karti {
+    background-image: url('assets/kisi-bg.png');
+    background-repeat: repeat-x;
+  }
+
+  .list-group-item {
+    font-size: 12px;
+  }
+
+  .list-group-item:hover {
+    background-color: rgba(231, 229, 229, 0.884);
+  }
+
+  .radius-10 {
+    border-radius: 10px;
+  }
+
+  #yeniGonderi {
+    border-radius: 30px;
+    height: 50px;
+    border: 1px solid rgba(184, 182, 182, 0.856);
+  }
+
+  .gonderiTuru:hover {
+    background-color: rgba(231, 229, 229, 0.884);
+
+  }
+
+  #yeniGonderi:hover {
+    background-color: rgba(231, 229, 229, 0.884);
+  }
+
+  .fs-10px {
+    font-size: 10px;
+  }
+
+  .fs-11px {
+    font-size: 11px;
+  }
+
+  .fs-12px {
+    font-size: 12px;
+  }
+
+  .fs-14px {
+    font-size: 14px;
+  }
+
+  .color-gray {
+    color: gray;
+  }
+
+  #yeni-alt:hover {
+    background-color: rgba(231, 229, 229, 0.884);
+  }
+
+  #etkinlik-ekle:hover {
+    background-color: rgba(231, 229, 229, 0.884);
+  }
+
+  .uc-nokta:hover {
+    background-color: rgba(231, 229, 229, 0.884);
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  .paylasimEylemleri:hover {
+    background-color: rgba(231, 229, 229, 0.884);
+  }
+
+  .takip-et {
+    background-color: white;
+    padding: 6px 20px;
+    border-radius: 25px;
+    border: 1px solid gray;
+    font-size: 16px;
+    font-weight:bold;
+    color:gray;
+  }
+
+  .takip-et:hover {
+     background-color: rgba(231, 229, 229, 0.884);
+  }
+  .hover:hover {
+     background-color: rgba(231, 229, 229, 0.884);
+  }
+  .link {
+    font-size:12px;
+    color:gray;
+    margin:5px 15px 15px 5px ;
+  }
+  .link:hover {
+    text-decoration: underline;
+  }
